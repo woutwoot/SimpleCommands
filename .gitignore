@@ -1,0 +1,5 @@
+# ignore everything in the main folder...
+/*
+# except src
+!/src
+# Use git add -f <name> to add new stuff in the main folder.
